@@ -6,7 +6,7 @@ This repo contains a task to design and program a circuit with 5 motor for robot
 ![design](circuit.PNG)
 
 
-* program the arduino to Set the motors degree to 90 by using c++ language. 
+* program the arduino to Set the motors degree to 90 by using c++ language. ([see the code](https://github.com/MonaAl-Dawsari/Arduino-circuit-5motors/blob/main/circuit.ino))
 
 * Start Simulation. 
 
